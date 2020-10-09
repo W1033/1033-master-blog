@@ -29,7 +29,7 @@
 
 
 
-## Contents
+## Content
 ### 1. "一的法则" 是什么? 
 - Hint: 从介绍来自维基百科
   [一的法则](https://zh.wikipedia.org/wiki/%E4%B8%80%E7%9A%84%E6%B3%95%E5%88%99?oldformat=true)

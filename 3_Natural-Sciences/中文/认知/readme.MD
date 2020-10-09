@@ -19,7 +19,7 @@
 
 
 
-## Contents
+## Content
 ### 1. Astral travel (Astral projection. 灵魂投射/星光投射/太空投射)
 - [灵魂投射](https://www.wikiwand.com/zh/%E9%AD%82%E7%81%B5%E6%8A%95%E5%B0%84)
 - [Astral projection](https://www.wikiwand.com/en/Astral_projection)
