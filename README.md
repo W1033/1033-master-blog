@@ -8,7 +8,7 @@
 
 ## 生词
 - **academic [ækə'demɪk]/[ˌækə'dɛmɪk] --adj.学术的;学院的,大学的. --n.学者,大学生,大学教师.**
-    + an academic(adj) curriculum. 大学课程.
+    + an academic(adj) curriculum`[kə'rɪkjələm]`. 大学课程.
     + an academic(adj) degree. 学位
     + We received our academic reports last week.
       上周我们收到了成绩单.
