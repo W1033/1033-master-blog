@@ -28,23 +28,24 @@
 
 ## 内容
 ### 1. 知识体系: 学科(领域)大纲(Outline of academic disciplines)(Wikipedia)
-- 注意: 下面 "学科大纲" 的分类目录图来自
-  [Outline of academic disciplines -- wikiwand](https://www.wikiwand.com/en/Outline_of_academic_disciplines)
-  页面, 中文页面的分类有差异. 
+**Additional Info:** 下面 "学科大纲" 的分类目录图来自
+[Outline of academic disciplines -- wikiwand](https://www.wikiwand.com/en/Outline_of_academic_disciplines)
+页面, 注意中文页面的分类和英文有差异. 
 
-- 這是一個學科的列表. 學科是在大學教學(教育)與研究的知識分科.
-  學科是被發表研究和學術雜誌、學會和系所所定義及承認的. 
-  
-  学科可能有分支, 这些分支通常称为子学科.(A discipline may have branched, and
-  these are often called sub-disciplines.)
-  
-  分类目录图: 
+這是一個學科的列表. 學科是在大學教學(教育)與研究的知識分科.
 
-  <img src="./images_knowledge-system/Outline-of-academic-disciplines.png"
+學科是被發表研究和學術雜誌、學會和系所所定義及承認的. 
+  
+学科可能有分支, 这些分支通常称为子学科.(A discipline may have branched, and these
+are often called sub-disciplines.)
+  
+分类目录图: 
+
+<img src="./images_knowledge-system/Outline-of-academic-disciplines.png"
     style="display:block; margin:auto; border-radius:4px; width:100%;
         box-shadow: 1px 1px 3px 2px #e5e5e5">
 
-  **提示**: 当前图示只包含了学科大纲的一级和二级分类, 更多子类目请参考 Wikipedia 在线
-  [Outline of academic disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines?oldformat=true)
-  页面. 如果英文看起来困难, 可以查看我使用 Google translate 后保存的 pdf 文档,
-  保存在当前仓库: `./source-material/学术学科概述-Wikiwand.pdf`.
+**提示**: 当前图示只包含了学科大纲的一级和二级分类, 更多子类目请参考 Wikipedia 在线
+[Outline of academic disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines?oldformat=true)
+页面. 如果英文看起来困难, 可以查看我使用 Google translate 后保存的 pdf 文档,
+保存在当前仓库: `./source-material/学术学科概述-Wikiwand.pdf`.
