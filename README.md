@@ -1,7 +1,5 @@
-# 1033-master-blog
+提纲(Contents)
 
-
-## 提纲(Contents)
 1. 知识体系: 学科大纲(Wikipedia)
 
 
@@ -35,10 +33,10 @@
 這是一個學科的列表. 學科是在大學教學(教育)與研究的知識分科.
 
 學科是被發表研究和學術雜誌、學會和系所所定義及承認的. 
-  
+
 学科可能有分支, 这些分支通常称为子学科.(A discipline may have branched, and these
 are often called sub-disciplines.)
-  
+
 分类目录图: 
 
 <img src="./images_knowledge-system/Outline-of-academic-disciplines.png"
