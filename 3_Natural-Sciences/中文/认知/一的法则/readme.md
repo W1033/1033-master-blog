@@ -1,20 +1,10 @@
 # The Low of One 《一的法则》
 
-- Ra 工作小组:
-    + Donald T. Elkins(唐纳德·埃尔金斯),
-    + Carla L. Rueckert(卡拉·鲁科特),
-    + Jim McCarty(吉姆·麦克卡提).
-  <br>
-  <img src="./the-law-of-one-images/intro-014.jpg"
-    style="margin-left: 0">
-  <br>
-  图中为 Jim 和 Carla
-  <br>
-  <img src="./the-law-of-one-images/Ra-group.png"
-    style="margin-left: 0; width: 60%;">
-  
+
+
 
 ## Table of Contents
+0. Ra 工作小组介绍
 1. "一的法则" 是什么? 
 2. 一的法则(学者版)[2016]
 3. Ra接触:教导一的法则(最新译本) 
@@ -30,6 +20,27 @@
 
 
 ## Content
+
+### 0. Ra 工作小组介绍
+Ra 工作小组有 3 位成员, 分别为:
++ Donald T. Elkins(唐纳德·埃尔金斯),
++ Carla L. Rueckert(卡拉·鲁科特),
++ Jim McCarty(吉姆·麦克卡提).
+
+下图从左到右分别为: 卡拉, 唐, 吉姆
+<img src="./the-law-of-one-images/Ra-group.png"
+    style="border-radius: 4px; width: 66%; box-shadow: 1px 1px 3px 2px #e5e5e5">
+
+
+下图中为 Jim 和 Carla
+<img src="./the-law-of-one-images/intro-014.jpg"
+    style="border-radius: 4px; width: 66%; box-shadow: 1px 1px 3px 2px #e5e5e5">
+
+
+
+
+
+
 ### 1. "一的法则" 是什么? 
 - Hint: 从介绍来自维基百科
   [一的法则](https://zh.wikipedia.org/wiki/%E4%B8%80%E7%9A%84%E6%B3%95%E5%88%99?oldformat=true)
@@ -57,7 +68,7 @@
   此系列对话涵盖了**哲学**, **灵性**, **宗教**, **宇宙学**, **人类学**,
   **历史**, **物理**, **生物**, **地理**等方面. 
 
-##### 世界观
+#####  RA 传达的世界观
 - 人类是由第三密度的 `灵` 所组成的 `身/心/灵复合体(Mind/body/spirit complex)`,
   灵是永恒不灭的, 身的坏亡只是让灵随着心去找下一个适合的身而已. 
 
