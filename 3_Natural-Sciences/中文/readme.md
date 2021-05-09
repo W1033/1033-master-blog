@@ -44,7 +44,7 @@
 ### 1. 汉语拼音
 - `./古人怎么学习汉语发音的.md`
 - `./中国古代老师如何教学生认字的.md`
-- <img src="./images_chinese-knowledge-collection/pinyin.png"
+- <img src="./images_chinese/pinyin.png"
       style="margin-left: 0; border-radius: 4px; width: 76%;
         box-shadow: 1px 1px 3px 2px #e5e5e5">
 
@@ -129,9 +129,9 @@
   如果座椅太高, 就会压迫大腿下侧的血液循环; 高度太低, 坐进去的感觉是'窝'着的,
   脊柱不能挺直, 腰部容易出现损伤, 甚至患上腰椎间盘突出的问题.
   <br>
-  <img src="./images_chinese-knowledge-collection/sit-one.jpg" style="margin-left: 0;">
+  <img src="./images_chinese/sit-one.jpg" style="margin-left: 0;">
   <br>
-  <img src="./images_chinese-knowledge-collection/sit-two.jpg" style="margin-left: 0;">
+  <img src="./images_chinese/sit-two.jpg" style="margin-left: 0;">
 - (2) 坐的深浅也有讲究，要坐满座椅平面。**座椅边缘到膝部的空隙约为3个手指，
   这样才不会压迫腿部的血液循环。**
 - (3) 椅子的扶手，是很多人都忽略的一点。如果你把手放在扶手上，对尾椎骨就能减少20%的总负荷。
@@ -139,7 +139,7 @@
 - (4) **椅背要有支撑垫才可以维持正常弧度和减轻压力。**越能倾斜的椅子其实是越舒服的，
   越能倾斜就越舒服，上身和下身的角度会变得更大。**而人最舒适的仰面角度是110°~130°**。
   <br>
-  <img src="./images_chinese-knowledge-collection/elevation-angle.jpg" style="margin-left: 0;">
+  <img src="./images_chinese/elevation-angle.jpg" style="margin-left: 0;">
   <br>
   第 1 个图 90 度的尾椎骨受力最大. 第 2 个图没有腰靠倾斜坐骨受力大,
   第 3 个既有倾斜又有腰靠时, 最省力.
@@ -160,19 +160,6 @@
   所以即使是换了一把不错的椅子，若是坐姿不正确，那么旧疾仍旧无法改善。
 - 对于拥有正确坐姿习惯的小伙伴来说，购置一把人体工学椅就是锦上添花。但若是本身坐姿不正确，那么无论换上多贵的椅子也只是买个心理安慰.
 
-##### 自己的椅子 保友 金卓B-HAM 的调节部分:
-<img src="./images_chinese-knowledge-collection/01.png" style="margin-left: 0;">
-<br>
-<img src="./images_chinese-knowledge-collection/02.png" style="margin-left: 0;">
-<br>
-<img src="./images_chinese-knowledge-collection/03.png" style="margin-left: 0;">
-<br>
-<img src="./images_chinese-knowledge-collection/04.png" style="margin-left: 0;">
-<br>
-<img src="./images_chinese-knowledge-collection/05.png" style="margin-left: 0;">
-<br>
-<img src="./images_chinese-knowledge-collection/06.png" style="margin-left: 0;">
-
 
 ### 10. LCD 的各部位的各种技术 
 - (1) 表层玻璃: 非全贴合 / OGS / IN CELL / ON CELL 等
@@ -187,39 +174,8 @@
 
 
 
-
-
-
----------
----------
-
-
 ## 搜狗輸入法常用快捷鍵: 
 - 繁简切换: `shift + Control + F`
 - 统一使用英文标签符号后, 快速切换到中文标签符号的快捷键: `Control + .`
-
-## Markdown 中插入空格的方式: 
-```
-    紧贴 $a\!b$
-    没有空格 $ab$
-    小空格 a\,b
-    中等空格 a\;b
-    大空格 a\ b
-    quad空格 $a\quad b$
-    两个quad空格 $a\qquad b$
-```
-
-## vscode 重要 快捷键:
-- 复制当前行：`shift + alt +up/down`
-- 格式化选定代码 ：`ctrl + k / ctrl + f`
-- 注释：
-  + a) 单行注释：`[ctrl+k, ctrl+c] 或 ctrl+/`
-  + b) 取消单行注释：`[ctrl+k, ctrl+u] (按下ctrl不放, 再按k + u)`
-  + c) 多行注释：`[alt+shift+A]`
-  + d) 多行注释：`/**`
-- 折叠代码快捷键: 先按下 `Ctrl + K` 再按下 `ctrl + 0(数字0)` 
-  + (Tip: 即使是折叠全部代码也不用全选文本) 
-- 代码展开: 先按下 `ctrl + K`, 再按下 `ctrl + J` ;
-
 
 
