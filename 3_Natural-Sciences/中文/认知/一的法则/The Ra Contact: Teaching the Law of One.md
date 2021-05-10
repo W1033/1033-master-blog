@@ -2,7 +2,7 @@
 
 
 ## New Words(生词)
-- acknowledgment 
+- acknowledgment `` --
 
 
 ## 前言 ... 7
