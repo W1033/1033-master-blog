@@ -66,21 +66,160 @@
 
 **五畜:** 鸡 羊 牛 犬 猪
 
-**五神:** 魂 神 意 魄 志
-
 **五官:** 眼(肝/木) 舌(心/火) 口(脾/土) 鼻(肺/金) 耳(肾/水)
 
 **五觉:** 色 触 味 香 声
 
 
 
-| 五行 | 五脏 | 五腑 | 五季 | 五体 | 五窍 | 五华 | 五色 | 五味 | 五方 | 五志 | 五藏 | 五常 | 五劳 | 五侯 | 五液 | 五嗅 | 五声 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| <strong style="color: green">木</strong>  |    肝    |  胆  |  春  |  筋  |  目  |  爪  |  青  |  酸  |  东  |  怒  |  魂  |  仁  |  行  |  风  |  泪  |  臊  |  呼  |
-|  <strong style="color: red">火</strong>   | 心 | 小肠 |  夏  |  脉  |  舌  |  面  |  赤  |  苦  |  南  |  喜  |  神  |  礼  |  视  |  火  |  汗  |  焦  |  笑  |
-| <strong style="color: brown">土</strong>  |    脾    |  胃  | 长夏 |  肉  |  口  |  唇  |  黄  |  甘  |  中  |  思  |  意  |  信  |  坐  |  湿  |  涎  |  香  |  歌  |
-| <strong style="color: orange">金</strong> |    肺    | 大肠 |  秋  |  皮  |  鼻  |  毛  |  白  |  辛  |  西  |  悲  |  魄  |  义  |  卧  |  燥  |  涕  |  腥  | 哭 |
-|  <strong style="color: blue">水</strong>  |    肾    | 膀胱 |  冬  |  骨  |  耳  |  发  |  黑  |  咸  |  北  |  恐  |  志  |  智  |  立  |  寒  | 唾 | 腐 | 呻 |
+<table>
+    <tr>
+        <td style="text-align:center;"><strong>五行</strong></td>
+        <td colspan="13" style="text-align:center;"><strong>人体</strong></td>
+        <td colspan="7" style="text-align:center;">自然界</td>
+    </tr>
+    <tr>
+        <td>五行</td>
+        <td>五脏</td>
+        <td>五腑</td>
+        <td>五窍(官)</td>
+        <td>五体</td>
+        <td>五志</td>
+        <td>五液</td>
+        <td>五脉</td>
+        <td>五华</td>
+        <td>五藏(神)</td>
+        <td>五劳</td>
+        <td>五嗅</td>
+        <td>五声</td>
+        <td>五常</td>
+        <td>五音</td>
+        <td>五味</td>
+        <td>五色</td>
+        <td>五化</td>
+        <td>五气(侯)</td>
+        <td>五方</td>
+        <td>五季</td>
+    </tr>
+    <tr>
+        <td><strong style="color: green">木</strong></td>
+        <td>肝</td>
+        <td>胆</td>
+        <td>目</td>
+        <td>筋</td>
+        <td>怒</td>
+        <td>泪</td>
+        <td>弦</td>
+        <td>爪</td>
+        <td>魂</td>
+        <td>行</td>
+        <td>臊</td>
+        <td>呼</td>
+        <td>仁</td>
+        <td>角</td>
+        <td>酸</td>
+        <td>青</td>
+        <td>生</td>
+        <td>风</td>
+        <td>东</td>
+        <td>春</td>
+    </tr>
+    <tr>
+        <td><strong style="color: red">火</strong></td>
+        <td>心</td>
+        <td>小肠</td>
+        <td>舌</td>
+        <td>脉</td>
+        <td>喜</td>
+        <td>汗</td>
+        <td>洪</td>
+        <td>面</td>
+        <td>神</td>
+        <td>视</td>
+        <td>焦</td>
+        <td>笑</td>
+        <td>礼</td>
+        <td>徵</td>
+        <td>苦</td>
+        <td>赤</td>
+        <td>长</td>
+        <td>署</td>
+        <td>南</td>
+        <td>夏</td>
+    </tr>
+    <tr>
+        <td><strong style="color: brown">土</strong></td>
+        <td>脾</td>
+        <td>胃</td>
+        <td>口</td>
+        <td>肉</td>
+        <td>思</td>
+        <td>涎</td>
+        <td>缓</td>
+        <td>唇</td>
+        <td>意</td>
+        <td>坐</td>
+        <td>香</td>
+        <td>歌</td>
+        <td>信</td>
+        <td>宫</td>
+        <td>甘</td>
+        <td>黄</td>
+        <td>化</td>
+        <td>湿</td>
+        <td>中</td>
+        <td>长夏</td>
+    </tr>
+    <tr>
+        <td><strong style="color: orange">金</strong></td>
+        <td>肺</td>
+        <td>大肠</td>
+        <td>鼻</td>
+        <td>皮毛</td>
+        <td>悲</td>
+        <td>涕</td>
+        <td>浮</td>
+        <td>毛</td>
+        <td>魄</td>
+        <td>卧</td>
+        <td>腥</td>
+        <td>哭</td>
+        <td>义</td>
+        <td>商</td>
+        <td>辛</td>
+        <td>白</td>
+        <td>收</td>
+        <td>燥</td>
+        <td>西</td>
+        <td>秋</td>
+    </tr>
+    <tr>
+        <td><strong style="color: blue">水</strong></td>
+        <td>肾</td>
+        <td>膀胱</td>
+        <td>耳</td>
+        <td>骨</td>
+        <td>恐</td>
+        <td>唾</td>
+        <td>沉</td>
+        <td>发</td>
+        <td>志</td>
+        <td>立</td>
+        <td>腐</td>
+        <td>呻</td>
+        <td>智</td>
+        <td>羽</td>
+        <td>咸</td>
+        <td>黑</td>
+        <td>藏</td>
+        <td>寒</td>
+        <td>北</td>
+        <td>冬</td>
+    </tr>
+</table>
+
+
+
 
 #### 五行: 
 
