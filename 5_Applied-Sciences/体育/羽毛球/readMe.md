@@ -33,29 +33,7 @@
 
 
 ### 2. 羽毛球反手发球
-(1) 握拍: 基本握拍方式见下图(1), 食指在拇指的下方, 大拇指靠近球拍的宽沿(tip:
-不是整个大拇指顶在球拍上, 只是拇指的侧面顶住宽沿), 一定要注意,
-合谷那里是空出来的, 不是整个手握紧球拍, 参考下图(2):
 
-<img src="./images-badminton/fanshouwopai.png"
-    style="border-radius: 4px; width: 66%; box-shadow: 1px 1px 3px 2px #e5e5e5">
-
-<p style="color:red; text-align:center;">图(1)</p>
-
-<img src="./images-badminton/fanshouwopai2.png"
-    style="border-radius: 4px; width: 66%; box-shadow: 1px 1px 3px 2px #e5e5e5">
-<p style="color:red; text-align:center;">图(2)</p>
-
-(2) 发球时的站位: 持拍手对应脚在前, 另一只脚在后, 两脚距离不要太远. 重心在持拍手对应的脚上;
-羽毛球的发球规定: **发球时击球高于不能高于 1.15 米**;
-+ tip: (左手持拍)左脚在前, 右脚在后; (右手持拍)右脚在前, 左脚在后.
-
-(3) 发球前**拍头和地面呈 45 度角即可**, **左(/右)手持球, 球放置于球拍中心位置(即:甜区)**, 发球时, 拍面可以和身体是平行的,
-也可以稍微有一点角度, 这个看个人习惯, 参考如下图:
-
-<img src="./images-badminton/faqiu.png" style="border-radius: 4px; width: 66%; box-shadow: 1px 1px 3px 2px #e5e5e5">
-
-(4) 当准备发球时, 用力的技巧是**用手腕的力量向前推球**, <span style="color:red;">注意一定不要向上推.</span>
 
 ### 3. 羽毛球步伐
 #### 3.1 上网步法(左手版)
