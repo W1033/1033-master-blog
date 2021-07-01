@@ -2,21 +2,44 @@
 
 
 
-## Catalog
-1. 不同感冒药的作用机制
-2. 四君子汤
-
-
-
-
 ## New Words
-
-
+### 1. midnight noon 午夜(午夜中午) 
+### 2. 
+### 3. 
+### 4. 
+### 5. 
+### 6. 
+### 7. 
 
 
 
 
 ## Content
+
+### 0. 子午流注
+> 笔记来源: [Wikipedia-子午流注](https://www.wikiwand.com/zh-hans/%E5%AD%90%E5%8D%88%E6%B5%81%E6%B3%A8)
+
+**子午流注**（midnight-noon and ebb-flow doctrine），意即根据中医学说，一日的十二个[时辰](https://www.wikiwand.com/zh-hans/时辰)，和人体的[十二条主要经络](https://www.wikiwand.com/zh-hans/十二正经)互相对应，如下表所列。中医认为，在每一个时辰内，其所对应之[经络](https://www.wikiwand.com/zh-hans/經絡)上之血气会特别兴盛，而该经络所管之[脏腑](https://www.wikiwand.com/zh-hans/臟腑)亦较活跃。
+
+#### 子午流注列表
+
+| 时辰 | 时段        | 经络                                                         | 脏腑                                                 |
+| ---- | ----------- | ------------------------------------------------------------ | ---------------------------------------------------- |
+| 子   | 23:00–01:00 | [足少阳胆经](https://www.wikiwand.com/zh-hans/足少陽膽經)    | [胆](https://www.wikiwand.com/zh-hans/膽_(臟腑))     |
+| 丑   | 01:00–03:00 | [足厥阴肝经](https://www.wikiwand.com/zh-hans/足厥陰肝經)    | [肝](https://www.wikiwand.com/zh-hans/肝_(臟腑))     |
+| 寅   | 03:00–05:00 | [手太阴肺经](https://www.wikiwand.com/zh-hans/手太阴肺经)    | [肺](https://www.wikiwand.com/zh-hans/肺_(臟腑))     |
+| 卯   | 05:00–07:00 | [手阳明大肠经](https://www.wikiwand.com/zh-hans/手阳明大肠经) | [大肠](https://www.wikiwand.com/zh-hans/大腸_(臟腑)) |
+| 辰   | 07:00–09:00 | [足阳明胃经](https://www.wikiwand.com/zh-hans/足陽明胃經)    | [胃](https://www.wikiwand.com/zh-hans/胃_(臟腑))     |
+| 巳   | 09:00–11:00 | [足太阴脾经](https://www.wikiwand.com/zh-hans/足太陰脾經)    | [脾](https://www.wikiwand.com/zh-hans/脾_(臟腑))     |
+| 午   | 11:00–13:00 | [手少阴心经](https://www.wikiwand.com/zh-hans/手少阴心经)    | [心](https://www.wikiwand.com/zh-hans/心_(臟腑))     |
+| 未   | 13:00–15:00 | [手太阳小肠经](https://www.wikiwand.com/zh-hans/手太阳小肠经) | [小肠](https://www.wikiwand.com/zh-hans/小腸_(臟腑)) |
+| 申   | 15:00–17:00 | [足太阳膀胱经](https://www.wikiwand.com/zh-hans/足太陽膀胱經) | [膀胱](https://www.wikiwand.com/zh-hans/膀胱_(臟腑)) |
+| 酉   | 17:00–19:00 | [足少阴肾经](https://www.wikiwand.com/zh-hans/足少陰腎經)    | [肾](https://www.wikiwand.com/zh-hans/腎_(臟腑))     |
+| 戌   | 19:00–21:00 | [手厥阴心包经](https://www.wikiwand.com/zh-hans/手厥阴心包经) | [心包](https://www.wikiwand.com/zh-hans/心包絡)      |
+| 亥   | 21:00–23:00 | [手少阳三焦经](https://www.wikiwand.com/zh-hans/手少陽三焦經) | [三焦](https://www.wikiwand.com/zh-hans/三焦)        |
+
+
+
 
 ### 1. 不同感冒药的作用机制
 见: `./中医文章集合/不同感冒药的作用机制.md`
